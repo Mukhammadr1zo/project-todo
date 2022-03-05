@@ -1,0 +1,32 @@
+.btn {
+  max-height: 25px;
+  padding: 5px;
+}
+
+.delete-btn {
+  background-color: firebrick;
+  color: white;
+  border-radius: 3px;
+  border: 1px solid firebrick;
+}
+
+.all-btn {
+  background-color: dodgerblue;
+  color: white;
+  border-radius: 3px;
+  border: 1px solid dodgerblue;
+}
+
+.completed-btn {
+  background-color: rgba(24, 226, 24, 0.562);
+  color: white;
+  border-radius: 3px;
+  border: 1px solid rgba(24, 226, 24, 0.562);
+}
+
+.uncompleted-btn {
+  background-color: firebrick;
+  color: white;
+  border-radius: 3px;
+  border: 1px solid firebrick;
+}

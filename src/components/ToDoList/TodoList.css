@@ -52,12 +52,10 @@
   padding-left: 20px;
 }
 
-.delete-btn {
-  max-height: 25px;
-  padding: 2px;
-
-  background-color: firebrick;
-  color: white;
-  border-radius: 3px;
-  border: 1px solid firebrick;
+.btn-box {
+  width: 250px;
+  margin-left: 200px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
 }
